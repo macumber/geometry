@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.11)
 
-project(geometry)
+project(openstudio_geometry)
 
 if(CMAKE_COMPILER_IS_GNUCXX)
   # Apparently 4.6 is the earliest version supporting nullptr and range-based for
