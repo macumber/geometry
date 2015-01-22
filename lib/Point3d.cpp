@@ -20,6 +20,8 @@
 #include "Point3d.hpp"
 //#include "Vector3d.hpp"
 
+#include <iostream>
+
 namespace openstudio{
 
   /// default constructor creates point at 0, 0, 0

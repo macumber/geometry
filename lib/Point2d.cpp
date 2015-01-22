@@ -20,6 +20,8 @@
 #include "Point2d.hpp"
 //#include "Vector2d.hpp"
 
+#include <iostream>
+
 namespace openstudio{
 
   Point2d::Point2d()
